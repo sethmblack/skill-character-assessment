@@ -1,11 +1,10 @@
 ---
 name: character-assessment
-description: Evaluate the trustworthiness and reliability of individuals or organizations
-  before entering business relationships, partnerships, or high-stakes agreements.
+description: Evaluate the trustworthiness and reliability of individuals or organizations before entering business relationships, partnerships, or high-stakes agreements.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - character-assessment
 - writing
